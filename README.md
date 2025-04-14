@@ -13,7 +13,7 @@ This repository is a check list which is the second term practices in KB IT's yo
 ## 02 수업내용 복습
 | 항목 | 디렉토리 명 | 학습 여부 | 
 |------|:----:|:----:|
-| 01 자바 시작하기 | 01_java | ☐ |
+| 01 자바 시작하기 | 01_java | ☑ |
 | 02 변수와 타입 | 02_java | ☐ |
 | 03 연산자 | 03_java | ☐ |
 | 04 조건문과 반복문 | 04_java | ☐ |
