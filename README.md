@@ -7,7 +7,8 @@ This repository is a check list which is the second term practices in KB IT's yo
 ## 01 JAVA
 | 항목 | 디렉토리 명 | 기본 | 심화 | 
 |------|:----:|:----:|:----:|
-| 01 개발환경 구축, 변수, 타입, 연산자 | [01_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/01_java) | ☑ | ☐ |
+| 01 개발환경 구축, 변수, 타입, 연산자 | [01_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/01_java) | ☑ | ☑ |
+| 02 조건문과 반복문, 참조타입 | [02_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/02_java) | ☐ | ☐ |
 
 ---
 ## 02 수업내용 복습
