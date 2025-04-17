@@ -4,6 +4,7 @@ This repository is a check list which is the second term practices in KB IT's yo
 - complete: ☑, uncomplete: ☐
 - Base: 기본 문제, Deep: 심화문제
 
+---
 ## 01 JAVA
 | 항목 | 디렉토리 명 | 기본 | 심화 | 
 |------|:----:|:----:|:----:|
@@ -17,7 +18,7 @@ This repository is a check list which is the second term practices in KB IT's yo
 | 항목 | 디렉토리 명 | 학습 여부 | 학습 날짜 |
 |------|:----:|:----:|:----:|
 | 01 자바 시작하기 | 01_java | ☑ | 2025.04.14 |
-| 02 변수와 타입 | 02_java | ☐ | |
+| 02 변수와 타입 | 02_java | ☑ | 2025.04.17 |
 | 03 연산자 | 03_java | ☐ | |
 | 04 조건문과 반복문 | 04_java | ☐ | |
 | 05 참조 타입 | 05_java | ☐ | |
