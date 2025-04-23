@@ -19,12 +19,16 @@ This repository is a check list which is the second term practices in KB IT's yo
 |------|:----:|:----:|:----:|:----:|:----:|
 | 01 자바 시작하기 | 01_java | ☑ | ☑ | ☐ | 2025.04.14 |
 | 02 변수와 타입 | [02_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch2_%EB%B3%80%EC%88%98%EC%99%80%20%ED%83%80%EC%9E%85) | ☑ |☐ |☐ | 2025.04.17 |
-| 03 연산자 | 03_java | ☑ |☐ |☐ | |
-| 04 조건문과 반복문 | 04_java | ☑ |☐ |☐ | |
-| 05 참조 타입 | 05_java | ☐ |☐ |☐ | |
-| 06 클래스 | 06_java | ☑ |☐ |☐ | |
-| 07 상속 | 07_java | ☐ |☐ |☐ | |
-| 08 인터페이스 | 08_java | ☐ |☐ |☐ | |
+| 03 연산자 | [03_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch3_%EC%97%B0%EC%82%B0%EC%9E%90) | ☑ |☐ |☐ | |
+| 04 조건문과 반복문 | [04_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch4_%EC%A1%B0%EA%B1%B4%EB%AC%B8%EA%B3%BC%20%EB%B0%98%EB%B3%B5%EB%AC%B8
+) | ☑ |☐ |☐ | |
+| 05 참조 타입 | [05_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch5_%EC%B0%B8%EC%A1%B0%20%ED%83%80%EC%9E%85
+) | ☑ |☐ |☐ | |
+| 06 클래스 | [06_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch6_%ED%81%B4%EB%9E%98%EC%8A%A4
+) | ☑ |☐ |☐ | |
+| 07 상속 | [07_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch7_%EC%83%81%EC%86%8D
+) | ☑ |☐ |☐ | |
+| 08 인터페이스 | [08_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch8_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) | ☑ |☐ |☐ | |
 | 09 중첩 선언과 익명 객체 | 09_java | ☐ |☐ |☐ | |
 | 10 라이브러리와 모듈 | 10_java | ☐ | ☐ |☐ ||
 | 11 예외 처리 | 11_java | ☐ | ☐ |☐ ||
