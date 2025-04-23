@@ -26,8 +26,8 @@ This repository is a check list which is the second term practices in KB IT's yo
 | 07 상속 | [07_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch7_%EC%83%81%EC%86%8D) | ☑ |☐ |☐ | |
 | 08 인터페이스 | [08_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch8_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) | ☑ |☐ |☐ | |
 | 09 중첩 선언과 익명 객체 | 09_java | ☐ |☐ |☐ | |
-| 10 라이브러리와 모듈 | 10_java | ☐ | ☐ |☐ ||
-| 11 예외 처리 | 11_java | ☐ | ☐ |☐ ||
+| 10 라이브러리와 모듈 | [10_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch10_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80%20%EB%AA%A8%EB%93%88) | ☑ | ☐ |☐ ||
+| 11 예외 처리 | [11_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch11_%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC) | ☑ | ☐ |☐ ||
 | 12 java.base 모듈 | 12_java | ☐ | ☐ |☐ ||
 | 13 제네릭 | 13_java | ☐ | ☐ |☐ ||
 | 14 멀티 스레드 | 14_java | ☐ | ☐ |☐ ||
