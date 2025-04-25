@@ -14,23 +14,23 @@ This repository is a check list which is the second term practices in KB IT's yo
 
 
 ---
-## 02 수업내용 복습
+## 02_Learning (수업내용 복습)
 | 항목 | 디렉토리 명 | ☑ 개념정리 | ☑ 예제 | ☑ 연습문제 | 학습 종료 날짜 |
 |------|:----:|:----:|:----:|:----:|:----:|
 | 01 자바 시작하기 | 01_java | ☑ | ☑ | ☐ | 2025.04.14 |
-| 02 변수와 타입 | [02_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch2_%EB%B3%80%EC%88%98%EC%99%80%20%ED%83%80%EC%9E%85) | ☑ |☐ |☐ | 2025.04.17 |
-| 03 연산자 | [03_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch3_%EC%97%B0%EC%82%B0%EC%9E%90) | ☑ |☐ |☐ | |
-| 04 조건문과 반복문 | [04_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch4_%EC%A1%B0%EA%B1%B4%EB%AC%B8%EA%B3%BC%20%EB%B0%98%EB%B3%B5%EB%AC%B8) | ☑ |☐ |☐ | |
-| 05 참조 타입 | [05_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch5_%EC%B0%B8%EC%A1%B0%20%ED%83%80%EC%9E%85) | ☑ |☐ |☐ | |
-| 06 클래스 | [06_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch6_%ED%81%B4%EB%9E%98%EC%8A%A4) | ☑ |☐ |☐ | |
-| 07 상속 | [07_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch7_%EC%83%81%EC%86%8D) | ☑ |☐ |☐ | |
-| 08 인터페이스 | [08_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch8_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) | ☑ |☐ |☐ | |
-| 09 중첩 선언과 익명 객체 | 09_java | ☐ |☐ |☐ | |
-| 10 라이브러리와 모듈 | [10_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch10_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80%20%EB%AA%A8%EB%93%88) | ☑ | ☐ |☐ ||
-| 11 예외 처리 | [11_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_JAVA/Ch11_%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC) | ☑ | ☐ |☐ ||
-| 12 java.base 모듈 | 12_java | ☐ | ☐ |☐ ||
-| 13 제네릭 | 13_java | ☐ | ☐ |☐ ||
-| 14 멀티 스레드 | 14_java | ☐ | ☐ |☐ ||
+| 02 변수와 타입 | [02_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch02_variableAndType) | ☑ |☐ |☐ | 2025.04.17 |
+| 03 연산자 | [03_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch03_operator) | ☑ |☐ |☐ | |
+| 04 조건문과 반복문 | [04_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch04_conditionalStatementAndLoop) | ☑ |☐ |☐ | |
+| 05 참조 타입 | [05_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch05_referenceType) | ☑ |☐ |☐ | |
+| 06 클래스 | [06_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch06_class) | ☑ |☐ |☐ | |
+| 07 상속 | [07_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch07_inheritance) | ☑ |☐ |☐ | |
+| 08 인터페이스 | [08_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch08_interface) | ☑ |☐ |☐ | |
+| 09 중첩 선언과 익명 객체 | [09_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch09_nestedDeclarationAndAnonymousObject) | ☐ |☐ |☐ | |
+| 10 라이브러리와 모듈 | [10_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch10_libraryAndModule) | ☑ | ☐ |☐ ||
+| 11 예외 처리 | [11_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch11_exception) | ☑ | ☐ |☐ ||
+| 12 java.base 모듈 | [12_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch12_javabaseModule) | ☐ | ☐ |☐ ||
+| 13 제네릭 | [13_java]() | ☐ | ☐ |☐ ||
+| 14 멀티 스레드 | [14_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch14_multiThread) | ☐ | ☐ |☐ ||
 | 15 컬렉션 자료구조 | 15_java | ☐ | ☐ |☐ ||
 | 16 람다식 | 16_java | ☐ | ☐ |☐ ||
 | 17 스트림 요소 처리 | 17_java | ☐ |☐ |☐ | |
