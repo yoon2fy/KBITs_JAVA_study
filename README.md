@@ -25,10 +25,10 @@ This repository is a check list which is the second term practices in KB IT's yo
 | 06 클래스 | [06_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch06_class) | ☑ |☐ |☐ | |
 | 07 상속 | [07_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch07_inheritance) | ☑ |☐ |☐ | |
 | 08 인터페이스 | [08_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch08_interface) | ☑ |☐ |☐ | |
-| 09 중첩 선언과 익명 객체 | [09_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch09_nestedDeclarationAndAnonymousObject) | ☐ |☐ |☐ | |
+| 09 중첩 선언과 익명 객체 | [09_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch09_nestedDeclarationAndAnonymousObject) | ☑ |☐ |☐ | |
 | 10 라이브러리와 모듈 | [10_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch10_libraryAndModule) | ☑ | ☐ |☐ ||
 | 11 예외 처리 | [11_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch11_exception) | ☑ | ☐ |☐ ||
-| 12 java.base 모듈 | [12_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch12_javabaseModule) | ☐ | ☐ |☐ ||
+| 12 java.base 모듈 | [12_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch12_javabaseModule) | ☑ | ☐ |☐ ||
 | 13 제네릭 | [13_java]() | ☐ | ☐ |☐ ||
 | 14 멀티 스레드 | [14_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch14_multiThread) | ☐ | ☐ |☐ ||
 | 15 컬렉션 자료구조 | 15_java | ☐ | ☐ |☐ ||
