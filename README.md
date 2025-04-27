@@ -29,9 +29,12 @@ This repository is a check list which is the second term practices in KB IT's yo
 | 10 라이브러리와 모듈 | [10_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch10_libraryAndModule) | ☑ | ☐ |☐ ||
 | 11 예외 처리 | [11_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch11_exception) | ☑ | ☐ |☐ ||
 | 12 java.base 모듈 | [12_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch12_javabaseModule) | ☑ | ☐ |☐ ||
-| 13 제네릭 | [13_java]() | ☐ | ☐ |☐ ||
-| 14 멀티 스레드 | [14_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch14_multiThread) | ☐ | ☐ |☐ ||
-| 15 컬렉션 자료구조 | 15_java | ☐ | ☐ |☐ ||
-| 16 람다식 | 16_java | ☐ | ☐ |☐ ||
-| 17 스트림 요소 처리 | 17_java | ☐ |☐ |☐ | |
-| 18 데이터 입출력  | 18_java | ☐ |☐ |☐ | |
+| 13 제네릭 | [13_java]() | ☑ | ☐ |☐ ||
+| 14 멀티 스레드 | [14_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch14_multiThread) | ☑ | ☐ |☐ ||
+| 15 컬렉션 자료구조 | [15_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch15_) | ☐ | ☐ |☐ ||
+| 16 람다식 | [16_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch16_) | ☐ | ☐ |☐ ||
+| 17 스트림 요소 처리 | [17_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch17_) | ☐ |☐ |☐ | |
+| 18 데이터 입출력  | [18_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch18_) | ☐ |☐ |☐ | |
+| 19 네트워크 입출력 | [19_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch19_) | ☐ |☐ |☐ | |
+| 20 데이터베이스 입출력 | [20_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch20_) | ☐ |☐ |☐ | |
+| 21 자바 21에서 강화된 언어 및 라이브러리 | [21_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch21_) | ☐ |☐ |☐ | |
