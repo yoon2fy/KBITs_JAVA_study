@@ -130,17 +130,97 @@ try {
 - 동기화 메소드를 실행 즉시 객체는 잠금이 일어나고, 메소드 실행이 끝나면 잠금 풀림
 - 메소드 일부 영역 실행 시 객체 잠금을 걸고 싶다면 동기화 블록을 만듦
 
+```java
+public synchronized void method(){
+  // 단 하나의 스레드만 실행하는 영역
+}
+```
 
+```java
+public void method (){
+  // 여러 스레드가 실행할 수 있는 영역
+  synchronized(공유객체){
+    // 단 하나의 스레드만 실행하는 영역
+  }
+  // 여러 스레드가 실행할 수 있는 영역
+}
+```
 
-
-
+### 📌 wait()와 notify()를 이용한 스레드 제어 
+**공유 객체**는 두 스레드가 작업할 내용을 각각 동기화 메소드로 정해놓음. 한 스레드가 작업을 완료하면 **notify()** 메소드를 호출해서 일시 정지 상태에 있는 다른 스레드를 실행 대기 상태로 만들고, 자신은 두 번 작업을 하지 않도록 **wait()** 메소드를 호출하여 일시 정지 상태로 만든다.
 
 ## 14.07 스레드 안전 종료
+사용하던 리소스들을 정리하고 run() 메소드를 빨리 종료하는 것.
+주로 **(1)** 조건 이용 방법, **(2)** interrupt() 메소드를 사용함.
 
+### 📌조건 이용
+```java
+public class XXXThread extend Thread {
+  private boolean stop; // 📌 stop이 필드 선언
+
+  public void run() {
+    while(!stop) { // 📌 stop이 true가 되면 while문을 빠져 나감
+    // 스레드가 반복 실행하는코드; 
+    }
+  // 스레드가 사용한 리소스 정리 // 📌 리소스 정리
+  } // 📌 스레드 종료
+}
+```
+
+### 📌 interrupt()
+- **interrupt()** 메소드는 스레드가 **일시 정지 상태**에 있을 때 InterruptedException 예외를 발생시키는 역할을 함. 이것을 이용해서 run() 메소드를 정상 종료시킬 수 있음.
+- 그러나, 스레드가 **실행 대기/실행 상태**일 때는 예외가 발생되지 않음.
 
 ## 14.08 데몬 스레드
-
+- **데몬 스레드:** 주 스레드의 작업을 돕는 보조적인 역할을 수행하는 스레드임.
+- 주스레드가 종료되면 데몬 스레드도 따라서 자동으로 종료된다.
 
 ## 14.09 스레드풀
+- **스레드 풀(Thread pool):** 병렬 작업 처리가 많아지면 스레드의 개수가 폭증하여 CPU가 바빠지고 메모리 사용량이 늘어남. 이를 막기 위해서 스레드 풀을 사용함.
+- 스레드풀은 작업 처리에 사용되는 스레드를 제한된 개수만큼 정해놓고 작업 큐(Queue)에 들어오는 작업들을 스레드가 하나씩 맡아 처리하는 방법임.
 
+### 📌스레드풀 생성
+java.util.concurrent 패키지에서 ExecutorService 인터페이스와 Executors 클래스를 제공하고 있음.
 
+**table.** Executors의 정적 메소드
+|메소드명(매개변수)|초기 수|코어 수|최대 수|
+|-|-|-|-|
+|newCachedThreadPool()|0|0|integer.MAX_VALUE|
+|newFixedThreadPool(int n Threads)|0|생성된 수|nThreads|
+
+### 📌 스레드풀 종료
+스레드풀은 main 스레드가 종료되어도 작업을 처리하기 위해 계속 실행 상태로 남아 있다. 스레드풀의 모든 스레드를 종료하려면 ExecutorService의 다음 두 메소드 중 하나를 실행해야함.
+
+**table.** ExecutorService의 종료 메소드
+|리턴타입|메소드명(매개변수)|설명|
+|-|-|-|
+|void|shutdown()|현재 처리 중인 작업뿐만 아니라 작업 큐에 대기하고 있는 모든 작업을 처리한 뒤에 스레드풀을 종료시킴|
+|List<Runnable>|shutdownNow()|현재작업 처리 중인 스레드를 interrupt해서 작업을 중지시키고 스레드풀을 종룟킴. 리턴값은 작업 큐에 있는 미처리된 작업(Runnable)의 목록임| 
+
+### 📌 작업 생성과 처리 요청
+하나의 작업은 Runnnable 또는 Callable 구현 객체로 표현함. 차이점은 Callable이 return값이 있다는 것임.
+
+```java
+// 📌 Runnable 익명 구현 객체
+new Runnable() {
+  @Override
+  public void run () {
+    // 스레드가 처리할 작업 내용
+  }
+}
+
+// 📌 Callable 익명 구현 객체
+new Calable<T>(){
+  @Override
+  public T call() throws Exception {
+    // 스레드가 처리할 작업 내용 
+    return T;
+  }
+}
+```
+
+**table.** ExecutorService의 작업처리 메소드
+|리턴타입|메소드명(매개변수)|설명|
+|-|-|-|
+|void|execute(Runnable command)|Runnable을 작업 큐에 저장함. 작업 처리 결과를 리턴하지 않음.|
+|Future<T>|submit(Callable<T> task)|Callable을 작업 큐에 저장.|
