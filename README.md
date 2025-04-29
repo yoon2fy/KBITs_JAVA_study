@@ -35,7 +35,7 @@ This repository is a check list which is the second term practices in KB IT's yo
 | 10 라이브러리와 모듈 | [10_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch10_libraryAndModule) | ☑ | ☐ |☐ ||
 | 11 예외 처리 | [11_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch11_exception) | ☑ | ☐ |☐ ||
 | 12 java.base 모듈 | [12_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch12_javabaseModule) | ☑ | ☐ |☐ ||
-| 13 제네릭 | [13_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch13_generic) | ☑ | ☐ |☐ ||
+| 13 제네릭 | [13_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch13_generic) | ☑ | ☑ |☐ ||
 | 14 멀티 스레드 | [14_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch14_multiThread) | ☑ | ☑ |☐ ||
 | 15 컬렉션 자료구조 | [15_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch15_) | ☐ | ☐ |☐ ||
 | 16 람다식 | [16_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch16_) | ☐ | ☐ |☐ ||
