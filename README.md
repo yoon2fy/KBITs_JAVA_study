@@ -15,8 +15,8 @@ This repository is a check list which is the second term practices in KB IT's yo
 | 05 인터페이스| [05_java]()| ☐ | ☐ |
 | 06 중첩객체| [06_java]()| ☐ | ☐ |
 | 07 예외처리, 라이브러리| [07_java]()| ☐ | ☐ |
-| 08 멀티스레드| [08_java]()| ☐ | ☐ |
-| 09 제너릭, 컬렉션| [09_java]()| ☑ | ☐ |
+| 08 멀티스레드| [08_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/08_java)| ☑ | ☐ |
+| 09 제너릭, 컬렉션| [09_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/09_java)| ☑ | ☐ |
 |
 
 ---
@@ -37,10 +37,10 @@ This repository is a check list which is the second term practices in KB IT's yo
 | 12 java.base 모듈 | [12_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch12_javabaseModule) | ☑ | ☐ |☐ ||
 | 13 제네릭 | [13_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch13_generic) | ☑ | ☑ |☐ ||
 | 14 멀티 스레드 | [14_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch14_multiThread) | ☑ | ☑ |☐ ||
-| 15 컬렉션 자료구조 | [15_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch15_) | ☐ | ☐ |☐ ||
-| 16 람다식 | [16_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch16_) | ☐ | ☐ |☐ ||
-| 17 스트림 요소 처리 | [17_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch17_) | ☐ |☐ |☐ | |
-| 18 데이터 입출력  | [18_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch18_) | ☐ |☐ |☐ | |
-| 19 네트워크 입출력 | [19_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch19_) | ☐ |☐ |☐ | |
-| 20 데이터베이스 입출력 | [20_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch20_) | ☐ |☐ |☐ | |
-| 21 자바 21에서 강화된 언어 및 라이브러리 | [21_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch21_) | ☐ |☐ |☐ | |
+| 15 컬렉션 자료구조 | [15_java]() | ☐ | ☐ |☐ ||
+| 16 람다식 | [16_java]() | ☐ | ☐ |☐ ||
+| 17 스트림 요소 처리 | [17_java]() | ☐ |☐ |☐ | |
+| 18 데이터 입출력  | [18_java]() | ☐ |☐ |☐ | |
+| 19 네트워크 입출력 | [19_java]() | ☐ |☐ |☐ | |
+| 20 데이터베이스 입출력 | [20_java]() | ☐ |☐ |☐ | |
+| 21 자바 21에서 강화된 언어 및 라이브러리 | [21_java]() | ☐ |☐ |☐ | |
