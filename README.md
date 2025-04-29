@@ -11,7 +11,13 @@ This repository is a check list which is the second term practices in KB IT's yo
 | 01 개발환경 구축, 변수, 타입, 연산자 | [01_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/01_java) | ☑ | ☑ |
 | 02 조건문과 반복문, 참조타입 | [02_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/02_java) | ☑ | ☑ |
 | 03 클래스 | [03_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/03_java) | ☐ | ☐ |
-
+| 04 상속| [04_java]()| ☐ | ☐ |
+| 05 인터페이스| [05_java]()| ☐ | ☐ |
+| 06 중첩객체| [06_java]()| ☐ | ☐ |
+| 07 예외처리, 라이브러리| [07_java]()| ☐ | ☐ |
+| 08 멀티스레드| [08_java]()| ☐ | ☐ |
+| 09 제너릭, 컬렉션| [09_java]()| ☑ | ☐ |
+|
 
 ---
 ## 02_Learning (수업내용 복습)
@@ -29,8 +35,8 @@ This repository is a check list which is the second term practices in KB IT's yo
 | 10 라이브러리와 모듈 | [10_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch10_libraryAndModule) | ☑ | ☐ |☐ ||
 | 11 예외 처리 | [11_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch11_exception) | ☑ | ☐ |☐ ||
 | 12 java.base 모듈 | [12_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch12_javabaseModule) | ☑ | ☐ |☐ ||
-| 13 제네릭 | [13_java]() | ☑ | ☐ |☐ ||
-| 14 멀티 스레드 | [14_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch14_multiThread) | ☑ | ☐ |☐ ||
+| 13 제네릭 | [13_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch13_generic) | ☑ | ☐ |☐ ||
+| 14 멀티 스레드 | [14_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch14_multiThread) | ☑ | ☑ |☐ ||
 | 15 컬렉션 자료구조 | [15_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch15_) | ☐ | ☐ |☐ ||
 | 16 람다식 | [16_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch16_) | ☐ | ☐ |☐ ||
 | 17 스트림 요소 처리 | [17_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch17_) | ☐ |☐ |☐ | |
