@@ -10,7 +10,7 @@ This repository is a check list which is the second term practices in KB IT's yo
 |------|:----:|:----:|:----:|
 | 01 개발환경 구축, 변수, 타입, 연산자 | [01_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/01_java) | ☑ | ☑ |
 | 02 조건문과 반복문, 참조타입 | [02_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/02_java) | ☑ | ☑ |
-| 03 클래스 | [03_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/03_java) | ☐ | ☐ |
+| 03 클래스 | [03_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/03_java) | ☑ | ☑ |
 | 04 상속| [04_java]()| ☐ | ☐ |
 | 05 인터페이스| [05_java]()| ☐ | ☐ |
 | 06 중첩객체| [06_java]()| ☐ | ☐ |
