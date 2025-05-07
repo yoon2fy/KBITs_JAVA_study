@@ -5,6 +5,7 @@ This repository is a check list which is the second term practices in KB IT's yo
 - Base: 기본 문제, Deep: 심화문제
 
 ---
+
 ## 01 JAVA
 | 항목 | 디렉토리 명 | 기본 | 심화 | 
 |------|:----:|:----:|:----:|
@@ -18,8 +19,10 @@ This repository is a check list which is the second term practices in KB IT's yo
 | 08 멀티스레드| [08_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/08_java)| ☑ | ☐ |
 | 09 제너릭, 컬렉션| [09_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/09_java)| ☑ | ☐ |
 | 10 컬렉션 자료구조| [10_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/10_java)| ☑ | ☐ |
+| 11 람다식 | [11_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/11_java)| ☑ | ☑ |
 
 ---
+
 ## 02_Learning (수업내용 복습)
 | 항목 | 디렉토리 명 | ☑ 개념정리 | ☑ 예제 | ☑ 연습문제 | 학습 종료 날짜 |
 |------|:----:|:----:|:----:|:----:|:----:|
@@ -37,8 +40,8 @@ This repository is a check list which is the second term practices in KB IT's yo
 | 12 java.base 모듈 | [12_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch12_javabaseModule) | ☑ | ☐ |☐ ||
 | 13 제네릭 | [13_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch13_generic) | ☑ | ☑ |☐ ||
 | 14 멀티 스레드 | [14_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch14_multiThread) | ☑ | ☑ |☐ ||
-| 15 컬렉션 자료구조 | [15_java]() | ☐ | ☐ |☐ ||
-| 16 람다식 | [16_java]() | ☐ | ☐ |☐ ||
+| 15 컬렉션 자료구조 | [15_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch15_collectionDataStructure) | ☑ | ☐ |☐ ||
+| 16 람다식 | [16_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch16_lambdaExpression) | ☑ | ☐ |☐ ||
 | 17 스트림 요소 처리 | [17_java]() | ☐ |☐ |☐ | |
 | 18 데이터 입출력  | [18_java]() | ☐ |☐ |☐ | |
 | 19 네트워크 입출력 | [19_java]() | ☐ |☐ |☐ | |
