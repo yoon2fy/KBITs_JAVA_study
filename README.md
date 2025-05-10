@@ -21,6 +21,7 @@ This repository is a check list which is the second term practices in KB IT's yo
 | 10 컬렉션 자료구조| [10_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/10_java)| ☑ | ☐ |
 | 11 람다식 | [11_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/11_java)| ☑ | ☑ |
 | 12 스트림 요소 처리 | [12_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/12_java)| ☑ | ☑ |
+| 13 데이터 입출력 | [13_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/13_java) | ☑ | ☑ |
 
 ---
 
@@ -44,7 +45,7 @@ This repository is a check list which is the second term practices in KB IT's yo
 | 15 컬렉션 자료구조 | [15_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch15_collectionDataStructure) | ☑ | ☐ |☐ ||
 | 16 람다식 | [16_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch16_lambdaExpression) | ☑ | ☐ |☐ ||
 | 17 스트림 요소 처리 | [17_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch17_stream) | ☑ |☐ |☐ | |
-| 18 데이터 입출력  | [18_java]() | ☐ |☐ |☐ | |
+| 18 데이터 입출력  | [18_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch18_dataIO) | ☑ |☐ |☐ | |
 | 19 네트워크 입출력 | [19_java]() | ☐ |☐ |☐ | |
 | 20 데이터베이스 입출력 | [20_java]() | ☐ |☐ |☐ | |
 | 21 자바 21에서 강화된 언어 및 라이브러리 | [21_java]() | ☐ |☐ |☐ | |
