@@ -46,6 +46,6 @@ This repository is a check list which is the second term practices in KB IT's yo
 | 16 람다식 | [16_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch16_lambdaExpression) | ☑ | ☐ |☐ ||
 | 17 스트림 요소 처리 | [17_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch17_stream) | ☑ |☐ |☐ | |
 | 18 데이터 입출력  | [18_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch18_dataIO) | ☑ |☐ |☐ | |
-| 19 네트워크 입출력 | [19_java]() | ☐ |☐ |☐ | |
+| 19 네트워크 입출력 | [19_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/02_Learning/Ch19_networkIO) | ~ongoing |☐ |☐ | |
 | 20 데이터베이스 입출력 | [20_java]() | ☐ |☐ |☐ | |
 | 21 자바 21에서 강화된 언어 및 라이브러리 | [21_java]() | ☐ |☐ |☐ | |
