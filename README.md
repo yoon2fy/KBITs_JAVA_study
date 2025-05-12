@@ -1,12 +1,12 @@
 # KBITs_JAVA_study
 This repository is a check list which is the second term practices in KB IT's your life program.
-- 2025.04.14 - ongoing
+- 2025.04.14 - 2025.05.10
 - complete: ☑, uncomplete: ☐
 - Base: 기본 문제, Deep: 심화문제
 
 ---
 
-## 01 JAVA
+## 01 JAVA (과제)
 | 항목 | 디렉토리 명 | 기본 | 심화 | 
 |------|:----:|:----:|:----:|
 | 01 개발환경 구축, 변수, 타입, 연산자 | [01_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/01_java) | ☑ | ☑ |
