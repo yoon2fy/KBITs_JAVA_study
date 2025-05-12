@@ -13,9 +13,9 @@ This repository is a check list which is the second term practices in KB IT's yo
 | 02 조건문과 반복문, 참조타입 | [02_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/02_java) | ☑ | ☑ |
 | 03 클래스 | [03_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/03_java) | ☑ | ☑ |
 | 04 상속| [04_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/04_java)| ☑ | ☑ |
-| 05 인터페이스| [05_java]()| ☐ | ☐ |
+| 05 인터페이스| [05_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/05_java/Basic)| ☑ | ☐ |
 | 06 중첩객체| [06_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/06_java)| ☑ | ☑ |
-| 07 예외처리, 라이브러리| [07_java]()| ☐ | ☐ |
+| 07 예외처리, 라이브러리| [07_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/07_java/Basic)| ☑ | ☐ |
 | 08 멀티스레드| [08_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/08_java)| ☑ | ☐ |
 | 09 제너릭, 컬렉션| [09_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/09_java)| ☑ | ☐ |
 | 10 컬렉션 자료구조| [10_java](https://github.com/yoon2fy/KBITs_JAVA_study/tree/main/01%20JAVA/10_java)| ☑ | ☐ |
